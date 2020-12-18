@@ -4,4 +4,4 @@
 3. STDEV.P and STDEV.S
 4. k-means clustering to Fisher’s famous Iris data set
 
-Jupyter notebook is required to run .ipynb
+Jupyter notebook is required to run Tasks.ipynb
